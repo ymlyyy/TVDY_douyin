@@ -18,8 +18,3 @@
 
 点赞 · 收藏 · 关注 · 评论 · 弹幕 · 清屏 · 全屏
 
-## 构建
-
-```bash
-./gradlew assembleRelease
-```
